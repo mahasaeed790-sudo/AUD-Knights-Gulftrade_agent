@@ -1,0 +1,21 @@
+sku_id,name,type,unit_cost
+SKU-001,GulfCharge 20W,USB-C Charger,9.84
+SKU-002,GulfCharge 30W,USB-C Charger,6.15
+SKU-003,GulfCharge 65W,USB-C Charger,7.65
+SKU-004,GulfCharge 100W,USB-C Charger,7.34
+SKU-005,FlexLink USB-C 1m,Cable,3.34
+SKU-006,FlexLink USB-C 2m,Cable,3.19
+SKU-007,FlexLink Lightning 1m,Cable,3.73
+SKU-008,FlexLink HDMI 2m,Cable,1.72
+SKU-009,PowerCore 5000,Power Bank,13.91
+SKU-010,PowerCore 10000,Power Bank,8.42
+SKU-011,PowerCore 20000,Power Bank,11.06
+SKU-012,PowerCore 30000,Power Bank,15.07
+SKU-013,TypeFlow Mini,Keyboard,12.88
+SKU-014,TypeFlow Pro,Keyboard,18.56
+SKU-015,TypeFlow Mechanical,Keyboard,33.45
+SKU-016,TypeFlow Ergo,Keyboard,29.98
+SKU-017,ClickWave Lite,Mouse,7.87
+SKU-018,ClickWave Pro,Mouse,12.66
+SKU-019,ClickWave Wireless,Mouse,15.52
+SKU-020,ClickWave Ergo,Mouse,5.08

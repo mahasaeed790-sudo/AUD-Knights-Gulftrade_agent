@@ -1,0 +1,7 @@
+metric,before,after,delta
+shortage_units,9052,7922,-1130
+excess_units,1545,516,-1029
+ageing_units,351,351,0
+holding_cost,225.73,32.56,-193.18
+transfer_cost,0.00,1253.46,1253.46
+net_benefit,—,2152.02,—

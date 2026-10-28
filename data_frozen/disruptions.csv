@@ -1,0 +1,3 @@
+disruption_id,date,type,description,affected_skus,affected_locations,severity,status
+DIS-001,2026-10-12,component_shortage,Shortage of USB-C controller ICs affecting charger production.,SKU-002;SKU-003;SKU-004,Dubai;Abu Dhabi;Sharjah,high,ongoing
+DIS-002,2026-10-19,shipping_route_delay,Port congestion at Jebel Ali delaying inbound containers 5-10 days.,ALL,Dubai,medium,ongoing

@@ -1,0 +1,7 @@
+from_location,to_location,cost_per_unit,lead_time_days
+Dubai,Abu Dhabi,0.75,3
+Abu Dhabi,Dubai,12.5,5
+Dubai,Sharjah,1.53,1
+Sharjah,Dubai,1.53,1
+Abu Dhabi,Sharjah,1.44,1
+Sharjah,Abu Dhabi,1.44,1

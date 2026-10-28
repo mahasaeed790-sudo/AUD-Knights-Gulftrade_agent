@@ -1,0 +1,21 @@
+order_id,sku_id,supplier,quantity,destination,order_date,expected_arrival,supplier_lead_time_days,status
+PO-005,SKU-005,Delta Components,130,Dubai,2026-10-07,2026-10-14,7,confirmed
+PO-015,SKU-015,MegaSource HK,72,Dubai,2026-10-11,2026-10-19,8,in_transit
+PO-006,SKU-006,MegaSource HK,141,Sharjah,2026-10-13,2026-10-22,9,in_transit
+PO-016,SKU-016,Delta Components,178,Dubai,2026-10-08,2026-10-25,17,pending
+PO-014,SKU-014,Delta Components,400,Dubai,2026-10-07,2026-10-29,22,pending
+PO-011,SKU-011,Delta Components,335,Sharjah,2026-10-16,2026-10-30,14,confirmed
+PO-018,SKU-018,Delta Components,313,Sharjah,2026-10-20,2026-10-30,10,in_transit
+PO-007,SKU-007,GulfParts FZE,114,Abu Dhabi,2026-10-18,2026-10-31,13,pending
+PO-020,SKU-020,Delta Components,396,Abu Dhabi,2026-10-15,2026-11-01,17,confirmed
+PO-012,SKU-012,MegaSource HK,366,Sharjah,2026-10-15,2026-11-02,18,pending
+PO-001,SKU-001,GulfParts FZE,214,Dubai,2026-10-21,2026-11-03,13,in_transit
+PO-008,SKU-008,Delta Components,280,Sharjah,2026-10-15,2026-11-04,20,pending
+PO-013,SKU-013,Delta Components,156,Dubai,2026-10-21,2026-11-05,15,confirmed
+PO-019,SKU-019,MegaSource HK,353,Dubai,2026-10-12,2026-11-06,25,pending
+PO-010,SKU-010,MegaSource HK,95,Abu Dhabi,2026-10-13,2026-11-09,27,confirmed
+PO-017,SKU-017,Delta Components,76,Dubai,2026-10-17,2026-11-10,24,in_transit
+PO-009,SKU-009,GulfParts FZE,69,Abu Dhabi,2026-10-17,2026-11-12,26,pending
+PO-002,SKU-002,Delta Components,82,Abu Dhabi,2026-10-14,2026-11-14,10,delayed
+PO-004,SKU-004,GulfParts FZE,70,Sharjah,2026-10-19,2026-11-20,11,delayed
+PO-003,SKU-003,MegaSource HK,239,Dubai,2026-10-17,2026-12-01,24,delayed

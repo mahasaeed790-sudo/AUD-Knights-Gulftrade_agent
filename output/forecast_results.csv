@@ -1,0 +1,61 @@
+sku_id,location,forecast_30d,forecast_low,forecast_high,days_adjusted,data_quality_flag,note
+SKU-001,Abu Dhabi,386.4,366.4,406.5,0,ok,No adjustments needed.
+SKU-001,Dubai,212.0,200.2,223.9,0,ok,No adjustments needed.
+SKU-001,Sharjah,136.6,125.7,147.4,0,ok,No adjustments needed.
+SKU-002,Abu Dhabi,245.8,233.1,258.6,0,ok,No adjustments needed.
+SKU-002,Dubai,360.1,338.2,382.1,0,ok,No adjustments needed.
+SKU-002,Sharjah,193.3,182.8,203.7,0,ok,No adjustments needed.
+SKU-003,Abu Dhabi,234.8,220.8,248.7,0,ok,No adjustments needed.
+SKU-003,Dubai,347.2,327.0,367.3,0,ok,No adjustments needed.
+SKU-003,Sharjah,168.8,156.7,180.9,1,missing_records,1 missing days filled with avg demand (5.9/day)
+SKU-004,Abu Dhabi,246.9,231.2,262.6,0,ok,No adjustments needed.
+SKU-004,Dubai,323.1,300.3,345.8,0,ok,No adjustments needed.
+SKU-004,Sharjah,169.9,160.4,179.4,0,ok,No adjustments needed.
+SKU-005,Abu Dhabi,263.6,250.3,277.0,0,ok,No adjustments needed.
+SKU-005,Dubai,367.3,347.8,386.8,0,ok,No adjustments needed.
+SKU-005,Sharjah,173.4,163.1,183.6,0,ok,No adjustments needed.
+SKU-006,Abu Dhabi,242.8,227.7,257.9,0,ok,No adjustments needed.
+SKU-006,Dubai,343.8,322.1,365.5,0,ok,No adjustments needed.
+SKU-006,Sharjah,174.8,163.2,186.4,0,ok,No adjustments needed.
+SKU-007,Abu Dhabi,222.7,209.1,236.4,10,stockout_adjusted,10 stockout days filled with avg demand (8.1/day)
+SKU-007,Dubai,304.8,282.7,326.9,0,ok,No adjustments needed.
+SKU-007,Sharjah,164.9,153.1,176.8,0,ok,No adjustments needed.
+SKU-008,Abu Dhabi,247.2,230.6,263.7,0,ok,No adjustments needed.
+SKU-008,Dubai,362.1,341.4,382.8,0,ok,No adjustments needed.
+SKU-008,Sharjah,194.6,183.1,206.0,0,ok,No adjustments needed.
+SKU-009,Abu Dhabi,260.9,246.4,275.3,0,ok,No adjustments needed.
+SKU-009,Dubai,374.9,353.1,396.8,1,missing_records,1 missing days filled with avg demand (12.6/day)
+SKU-009,Sharjah,171.5,161.9,181.1,0,ok,No adjustments needed.
+SKU-010,Abu Dhabi,203.9,190.4,217.3,0,ok,No adjustments needed.
+SKU-010,Dubai,344.5,323.4,365.6,0,ok,No adjustments needed.
+SKU-010,Sharjah,180.6,170.2,190.9,0,ok,No adjustments needed.
+SKU-011,Abu Dhabi,256.6,243.7,269.6,0,ok,No adjustments needed.
+SKU-011,Dubai,375.9,356.9,394.9,0,ok,No adjustments needed.
+SKU-011,Sharjah,199.5,185.8,213.1,0,ok,No adjustments needed.
+SKU-012,Abu Dhabi,243.4,228.3,258.5,0,ok,No adjustments needed.
+SKU-012,Dubai,379.0,360.4,397.5,1,missing_records,1 missing days filled with avg demand (12.4/day)
+SKU-012,Sharjah,195.1,183.8,206.5,0,ok,No adjustments needed.
+SKU-013,Abu Dhabi,256.7,244.8,268.7,0,ok,No adjustments needed.
+SKU-013,Dubai,373.1,351.4,394.8,8,stockout_adjusted,8 stockout days filled with avg demand (12.0/day)
+SKU-013,Sharjah,162.8,153.0,172.7,0,ok,No adjustments needed.
+SKU-014,Abu Dhabi,256.6,241.9,271.3,0,ok,No adjustments needed.
+SKU-014,Dubai,310.6,290.5,330.7,0,ok,No adjustments needed.
+SKU-014,Sharjah,194.0,182.3,205.7,0,ok,No adjustments needed.
+SKU-015,Abu Dhabi,264.3,251.5,277.2,1,missing_records,1 missing days filled with avg demand (7.9/day)
+SKU-015,Dubai,344.8,324.1,365.4,0,ok,No adjustments needed.
+SKU-015,Sharjah,184.5,175.1,194.0,0,ok,No adjustments needed.
+SKU-016,Abu Dhabi,263.3,248.8,277.9,0,ok,No adjustments needed.
+SKU-016,Dubai,336.8,315.3,358.2,0,ok,No adjustments needed.
+SKU-016,Sharjah,161.4,151.2,171.7,0,ok,No adjustments needed.
+SKU-017,Abu Dhabi,253.1,239.8,266.5,0,ok,No adjustments needed.
+SKU-017,Dubai,336.4,314.9,357.9,0,ok,No adjustments needed.
+SKU-017,Sharjah,160.4,149.4,171.3,0,ok,No adjustments needed.
+SKU-018,Abu Dhabi,234.8,220.0,249.7,0,ok,No adjustments needed.
+SKU-018,Dubai,329.9,309.7,350.1,0,ok,No adjustments needed.
+SKU-018,Sharjah,185.6,174.1,197.0,0,ok,No adjustments needed.
+SKU-019,Abu Dhabi,212.4,198.4,226.4,0,ok,No adjustments needed.
+SKU-019,Dubai,321.3,299.5,343.1,0,ok,No adjustments needed.
+SKU-019,Sharjah,181.7,171.8,191.6,0,ok,No adjustments needed.
+SKU-020,Abu Dhabi,221.2,208.9,233.5,0,ok,No adjustments needed.
+SKU-020,Dubai,376.8,356.0,397.6,0,ok,No adjustments needed.
+SKU-020,Sharjah,177.6,166.8,188.4,0,ok,No adjustments needed.

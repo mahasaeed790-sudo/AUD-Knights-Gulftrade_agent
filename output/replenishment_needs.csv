@@ -1,0 +1,45 @@
+sku,location,units,supplier_lead_time_days,delayed_by_disruption
+SKU-020,Dubai,383,14,yes
+SKU-008,Dubai,344,14,yes
+SKU-006,Dubai,337,14,yes
+SKU-002,Dubai,303,14,yes
+SKU-009,Dubai,283,14,yes
+SKU-015,Abu Dhabi,283,14,yes
+SKU-016,Abu Dhabi,279,14,yes
+SKU-007,Dubai,264,14,yes
+SKU-012,Dubai,252,14,yes
+SKU-010,Dubai,250,14,yes
+SKU-015,Dubai,246,8,yes
+SKU-003,Dubai,244,24,yes
+SKU-017,Dubai,238,24,yes
+SKU-018,Dubai,232,14,yes
+SKU-008,Abu Dhabi,225,14,yes
+SKU-002,Abu Dhabi,212,10,yes
+SKU-004,Dubai,212,14,yes
+SKU-003,Abu Dhabi,191,14,yes
+SKU-004,Abu Dhabi,184,14,yes
+SKU-009,Sharjah,183,14,yes
+SKU-013,Abu Dhabi,183,14,yes
+SKU-019,Sharjah,179,14,yes
+SKU-011,Dubai,175,14,yes
+SKU-005,Sharjah,173,14,yes
+SKU-003,Sharjah,171,14,yes
+SKU-006,Abu Dhabi,164,14,yes
+SKU-017,Sharjah,162,14,yes
+SKU-013,Dubai,161,15,yes
+SKU-005,Abu Dhabi,137,14,yes
+SKU-017,Abu Dhabi,134,14,yes
+SKU-004,Sharjah,131,11,yes
+SKU-009,Abu Dhabi,120,26,yes
+SKU-005,Dubai,104,7,yes
+SKU-007,Sharjah,100,14,yes
+SKU-010,Sharjah,97,14,yes
+SKU-016,Sharjah,96,14,yes
+SKU-015,Sharjah,91,14,yes
+SKU-002,Sharjah,78,14,yes
+SKU-016,Dubai,68,17,yes
+SKU-014,Sharjah,66,14,yes
+SKU-007,Abu Dhabi,59,13,yes
+SKU-020,Sharjah,58,14,yes
+SKU-012,Abu Dhabi,39,14,yes
+SKU-013,Sharjah,29,14,yes
